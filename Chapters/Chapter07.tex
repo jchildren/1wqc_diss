@@ -1,0 +1,31 @@
+% Chapter X
+
+\chapter{Conclusions} % Chapter title
+
+\label{ch:conclu} % For referencing the chapter elsewhere, use \autoref{ch:name} 
+
+Due to the very unfinished nature of the program, few conclusions can be drawn about the fault tolerance of the error correction scheme, however things can be learned from the challenges encountered while programming so that such problems can be averted in later versions of the program as well as in other programming based projects.
+
+
+%----------------------------------------------------------------------------------------
+
+\section{Choice of resources}
+
+It was found that Fortran is very much an appropriate language of choice for this kind of program given its access to a wide range of linear algebra libraries and the ease of constructing modular programs. If the program were to be adapted for parallel processing, this language would continue to work well give its access to these libraries, likely in conjunction with openMPI. Otherwise, it might be better if it were converted to python due to python's better handling of complex numbers and the removal of the need to compile the program, something which would be of benefit while many values in the program are still hard coded. 
+
+%----------------------------------------------------------------------------------------
+
+\section{Matrix Decomposition}
+
+As a way of recovering the individual state vectors of particular qubits from the larger state of the system, matrix decomposition is incredibly unreliable. While this can be mitigated to a certain extent by intelligent use of algorithms that form canonical decompositions such as the single value decomposition or eigen-decomposition, there are likely to always be problems with certain values as the complexity of superposition for the state vector increases. Fortunately this is not too large a problem for they systems in this project as they would rarely exceed six qubits or so, but it seems like a big issue for larger systems. 
+
+It seems possible that rather than just being a mathematical challenge, the difficulty in decomposing a matrix to accurately represent individual state vectors is more of problem resulting from the foundations of quantum mechanics. The difficulty in taking apart a state vector for mixed states is a mathematical reflection of the tricky nature of superposition and is unlikely to ever be resolved easily.
+
+
+%----------------------------------------------------------------------------------------
+
+\section{Further Work}
+
+While this work is unfinished, it also has a lot of potential for extension, this includes both the planned features that were not included to the program and the inclusion of the more complex structures that have interesting implications. As a result the work for this project will be continued independently of the end of the course in order to resolve the outstanding questions. 
+
+If the program can be rebuilt into a more concise package with better modules, it may even serve as a useful tool for students interested in one way quantum computation as it provides a clear outline of the process in several easy to understand modules. 

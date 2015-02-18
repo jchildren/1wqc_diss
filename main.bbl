@@ -1,0 +1,81 @@
+\begin{thebibliography}{10}
+
+\bibitem{raussendorf_measurement-based_2003}
+R.~Raussendorf, D.~E. Browne, and H.~J. Briegel, ``Measurement-based quantum
+  computation with cluster states,'' {arXiv} e-print quant-ph/0301052, Jan.
+  2003.
+\newblock Phys. Rev. A 68, 022312 (2003).
+
+\bibitem{joo_error-correcting_2009}
+J.~Joo and D.~L. Feder, ``Error-correcting one-way quantum computation with
+  global entangling gates,'' {arXiv} e-print 0908.0768, Aug. 2009.
+\newblock {PHYSICAL} {REVIEW} A 80, 032312 (2009).
+
+\bibitem{briegel_measurement-based_2009}
+H.~J. Briegel, D.~E. Browne, W.~Dür, R.~Raussendorf, and M.~V.~d. Nest,
+  ``Measurement-based quantum computation,'' {arXiv} e-print 0910.1116, Oct.
+  2009.
+\newblock Nature Physics 5 1, 19-26 (2009).
+
+\bibitem{briegel_persistent_2000}
+H.~J. Briegel and R.~Raussendorf, ``Persistent entanglement in arrays of
+  interacting particles,'' {arXiv} e-print quant-ph/0004051, Apr. 2000.
+
+\bibitem{joo_generating_2012}
+J.~Joo, E.~Alba, J.~J. García-Ripoll, and T.~P. Spiller, ``Generating and
+  verifying graph states for fault-tolerant topological measurement-based
+  quantum computing in 2d optical lattices,'' {arXiv} e-print 1207.0253, July
+  2012.
+
+\bibitem{kiesel_experimental_2005}
+N.~Kiesel, C.~Schmid, U.~Weber, O.~Guehne, G.~Toth, R.~Ursin, and
+  H.~Weinfurter, ``Experimental analysis of a 4-qubit cluster state,'' {arXiv}
+  e-print quant-ph/0508128, Aug. 2005.
+\newblock Phys. Rev. Lett. 95, 210502 (2005).
+
+\bibitem{walther_experimental_2005}
+P.~Walther, K.~J. Resch, T.~Rudolph, E.~Schenck, H.~Weinfurter, V.~Vedral,
+  M.~Aspelmeyer, and A.~Zeilinger, ``Experimental one-way quantum computing,''
+  {\em Nature}, vol.~434, pp.~169--176, Mar. 2005.
+
+\bibitem{jozsa_introduction_2005}
+R.~Jozsa, ``An introduction to measurement based quantum computation,'' {arXiv}
+  e-print quant-ph/0508124, Aug. 2005.
+
+\bibitem{raussendorf_one-way_2001}
+R.~Raussendorf and H.~J. Briegel, ``A one-way quantum computer,'' {\em Physical
+  Review Letters}, vol.~86, pp.~5188--5191, May 2001.
+
+\bibitem{raussendorf_quantum_2000}
+R.~Raussendorf and H.~J. Briegel, ``Quantum computing via measurements only,''
+  {arXiv} e-print quant-ph/0010033, Oct. 2000.
+
+\bibitem{lapack}
+E.~Anderson, Z.~Bai, C.~Bischof, S.~Blackford, J.~Demmel, J.~Dongarra,
+  J.~Du~Croz, A.~Greenbaum, S.~Hammarling, A.~McKenney, and D.~Sorensen, {\em
+  {LAPACK} Users' Guide}.
+\newblock Philadelphia, PA: Society for Industrial and Applied Mathematics,
+  third~ed., 1999.
+
+\bibitem{_ieee_2008}
+``{IEEE} standard for floating-point arithmetic,'' {\em {IEEE} Std 754-2008},
+  pp.~1--70, Aug. 2008.
+
+\bibitem{_top500_????}
+``Top500 list - june 2014 {\textbar} {TOP}500 supercomputer sites.''
+
+\bibitem{children_spin_2013}
+J.~Children, ``Spin chains, hyper-fine spin interactions and magnetic spin
+  coupling in quantum dots,'' Master's thesis, University of York, York, May
+  2013.
+
+\bibitem{hagar_quantum_2011}
+A.~Hagar, ``Quantum computing,'' in {\em The Stanford Encyclopedia of
+  Philosophy} (E.~N. Zalta, ed.), spring 2011~ed., 2011.
+
+\bibitem{nielsen_cluster-state_2006}
+M.~A. Nielsen, ``Cluster-state quantum computation,'' {\em Reports on
+  Mathematical Physics}, vol.~57, pp.~147--161, Feb. 2006.
+\newblock {arXiv}: quant-ph/0504097.
+
+\end{thebibliography}

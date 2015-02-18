@@ -1,0 +1,10 @@
+
+do i = 1, n
+  do j = 1, x
+         
+    !Computes outer product values and
+    !assigns them to matrix P
+    P(i, j) = A(i) * CONJG(B(j))
+
+  end do
+end do

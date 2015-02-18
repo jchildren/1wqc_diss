@@ -1,0 +1,20 @@
+\select@language {american}
+\deactivateaddvspace 
+\select@language {american}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Sketch of information flow in one way computation \citep {raussendorf_measurement-based_2003}\relax }}{2}{figure.caption.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2}{\ignorespaces Universal set of quantum gates \citep {raussendorf_measurement-based_2003}\relax }}{13}{figure.caption.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3}{\ignorespaces Error correction table based on outcomes in auxiliary qubits \citep {joo_error-correcting_2009}\relax }}{31}{figure.caption.7}
+\contentsline {figure}{\numberline {4}{\ignorespaces Full error correction circuit \citep {joo_error-correcting_2009}\relax }}{31}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5}{\ignorespaces Controlled phase gate structure and functionality \citep {raussendorf_measurement-based_2003}\relax }}{49}{figure.caption.9}
+\contentsline {figure}{\numberline {6}{\ignorespaces Quantum Fourier transform schema \citep {raussendorf_measurement-based_2003}\relax }}{50}{figure.caption.10}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7}{\ignorespaces Graph of system CPU time against length of simulated chain for the SVD measurement method \relax }}{65}{figure.caption.14}
+\contentsline {figure}{\numberline {8}{\ignorespaces Graph of system CPU time against length of simulated chain for the projection operator measurement method \relax }}{66}{figure.caption.15}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

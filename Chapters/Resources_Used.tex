@@ -1,0 +1,40 @@
+% Appendix Template
+
+\chapter{Resources Used} % Main appendix title
+
+\label{AppendixA} % Change X to a consecutive letter; for referencing this appendix elsewhere, use \ref{AppendixX}
+
+\lhead{Appendix A. \emph{Resources Used}} % Change X to a consecutive letter; this is for the header on each page - perhaps a shortened title
+
+Computer Used
+
+\begin{tabular}{l | r
+}
+\hline
+Processor	     & 2x Intel(R) Pentium(R) CPU B980 @ 2.40GHz \\
+Memory	         & 3942MB                                    \\
+Operating System & Linux Mint 13 Maya                        \\
+\hline
+\end{tabular}
+
+Packages Used
+
+\begin{tabular}{l | r
+}
+\hline
+Package          & Compiler flag            \\
+\hline
+BLAS	         & -lblas                   \\
+LAPACK	         & -llapack                 \\
+OpenMP           & -fopenmp                 \\
+\hline
+\end{tabular}
+
+The code was compiled using the gfortran compiler using flags -lblas, -llapack and -fopenmp. -g was used for debugging.
+
+OpenMP was employed in the summations for each loop to make use of the laptop's dual core processor.
+
+LAPACK was used in the diagonalisation of matrices to find the eigenvalues of the hamiltonians. 
+
+Data was plotted using gnuplot with a plotting script written for each basis set. 
+

@@ -1,0 +1,111 @@
+\select@language {american}
+\vspace {-\cftbeforepartskip }
+\select@language {american}
+\contentsline {chapter}{List of Figures}{vi}{chapter*.2}
+\contentsline {chapter}{Listings}{vii}{chapter*.3}
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction and Background}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cluster States}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Measurement Based Quantum Computation}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {One Way Quantum Computation}}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Hamiltonian on interacting particles}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Two qubit cluster state}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Three qubit cluster state}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Quantum controlled Z operator}{8}{section.2.4}
+\contentsline {section}{\numberline {2.5}Measurement based gate operation}{9}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}One bit teleportation}{9}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Controlled not gate}{11}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Gate universality}{12}{subsection.2.5.3}
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Error Correction}}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Logical qubits}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}Logical operations}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Logical Z operation}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Logical X operation}{19}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Logical Hadamard operation}{19}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Logical rotation operation}{20}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Logical controlled Z operation}{22}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}Entangled three qubit states}{23}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Demonstration of the validity of simpler operations}{25}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Second set of diagonal operations}{28}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Final diagonals}{29}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}General Encoding}{30}{section.3.4}
+\contentsline {section}{\numberline {3.5}Error}{30}{section.3.5}
+\contentsline {section}{\numberline {3.6}Higher Complexities}{32}{section.3.6}
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Simulation of One Way Quantum Computation}}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Set-up}{33}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Resources used}{33}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Subroutines}{34}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Libraries}{34}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Precision}{35}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}CZ Operation}{35}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Kronecker Product routine}{35}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Improvements}{37}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Other qubit operations}{38}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Pauli Z Operation}{38}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Hadamard Operation}{38}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Logical Operations}{39}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Measurement}{39}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Random measurement in basis}{39}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Pauli bases measurement}{40}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Arbitrary measurement}{40}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Feed Forward}{41}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Multiple Outputs}{41}{subsection.4.4.5}
+\contentsline {section}{\numberline {4.5}Decomposition}{41}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Rank decomposition}{42}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Single value decomposition}{43}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Error}{45}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Flip error}{46}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Phase error}{47}{subsection.4.6.2}
+\contentsline {section}{\numberline {4.7}Data Analysis}{47}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Fidelity}{47}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}Bulk data}{47}{subsection.4.7.2}
+\contentsline {section}{\numberline {4.8}Error Correction Scheme}{48}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}Encoding}{48}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {4.8.2}Correction}{48}{subsection.4.8.2}
+\contentsline {section}{\numberline {4.9}Other structures}{48}{section.4.9}
+\contentsline {subsection}{\numberline {4.9.1}Controlled not gate}{49}{subsection.4.9.1}
+\contentsline {subsection}{\numberline {4.9.2}Controlled phase gate}{49}{subsection.4.9.2}
+\contentsline {subsection}{\numberline {4.9.3}Quantum Fourier transform}{50}{subsection.4.9.3}
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Conclusions}}{51}{chapter.5}
+\contentsline {section}{\numberline {5.1}Choice of resources}{51}{section.5.1}
+\contentsline {section}{\numberline {5.2}Matrix Decomposition}{51}{section.5.2}
+\contentsline {section}{\numberline {5.3}Further Work}{52}{section.5.3}
+\contentsline {chapter}{\numberline {6}\spacedlowsmallcaps {Additional Work}}{53}{chapter.6}
+\contentsline {section}{\numberline {6.1}Errata}{53}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Basis measurement}{53}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Normalisation}{54}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Feed forward operators}{54}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Measurement subroutine}{55}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Numerical Value Precision}{57}{subsection.6.1.5}
+\contentsline {section}{\numberline {6.2}Adjustments and Improvements}{58}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Rearrangement of fidelity function}{58}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Measurement subroutine}{58}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Libraries}{58}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Data format}{59}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Program outputs}{59}{section.6.3}
+\contentsline {section}{\numberline {6.4}Larger chain program}{61}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Projection operators}{61}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Outer product subroutine}{62}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}New measurement subroutine}{62}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Retrieving output states}{63}{subsection.6.4.4}
+\contentsline {section}{\numberline {6.5}Observations}{63}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Subroutine improvements}{64}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Timing and Scaling}{65}{subsection.6.5.2}
+\contentsline {section}{\numberline {6.6}Conclusions}{67}{section.6.6}
+\contentsline {chapter}{\numberline {A}\spacedlowsmallcaps {Appendix A: Code}}{68}{appendix.A}
+\contentsline {section}{\numberline {A.1}Single Chain Program}{68}{section.A.1}
+\contentsline {section}{\numberline {A.2}CZ Operation Module}{72}{section.A.2}
+\contentsline {section}{\numberline {A.3}Kronecker Product Module}{77}{section.A.3}
+\contentsline {section}{\numberline {A.4}Measurement Module}{86}{section.A.4}
+\contentsline {section}{\numberline {A.5}Fidelity Function}{98}{section.A.5}
+\contentsline {chapter}{\numberline {B}\spacedlowsmallcaps {Appendix B: Resources Used}}{101}{appendix.B}
+\contentsline {section}{\numberline {B.1}Computer Used}{101}{section.B.1}
+\contentsline {section}{\numberline {B.2}Compiler Settings}{101}{section.B.2}
+\contentsline {chapter}{\numberline {C}\spacedlowsmallcaps {Appendix C: Additional Code}}{102}{appendix.C}
+\contentsline {section}{\numberline {C.1}Single Chain Program}{102}{section.C.1}
+\contentsline {section}{\numberline {C.2}Projection operators program}{107}{section.C.2}
+\contentsline {section}{\numberline {C.3}Kronecker Product Module}{112}{section.C.3}
+\contentsline {section}{\numberline {C.4}Measurement Module}{125}{section.C.4}
+\contentsline {section}{\numberline {C.5}Repeating single chain program}{138}{section.C.5}
+\contentsline {section}{\numberline {C.6}Repeating projection operators program}{143}{section.C.6}
+\vspace {\beforebibskip }
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{148}{dummy.2}

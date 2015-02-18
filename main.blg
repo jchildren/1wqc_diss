@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: FrontBackMatter/Titlepage.aux
+A level-1 auxiliary file: FrontBackMatter/Abstract.aux
+A level-1 auxiliary file: FrontBackMatter/Contents.aux
+A level-1 auxiliary file: Chapters/Chapter01.aux
+A level-1 auxiliary file: Chapters/Chapter02.aux
+A level-1 auxiliary file: Chapters/Chapter03.aux
+A level-1 auxiliary file: Chapters/Chapter05.aux
+A level-1 auxiliary file: Chapters/Chapter07.aux
+A level-1 auxiliary file: Chapters/Chapter08.aux
+A level-1 auxiliary file: Chapters/Chapter0A.aux
+A level-1 auxiliary file: Chapters/Chapter0B.aux
+A level-1 auxiliary file: Chapters/Chapter0C.aux
+A level-1 auxiliary file: FrontBackMatter/Bibliography.aux
+The style file: ieeetr.bst
+Database file #1: Bibliography.bib
+Warning--empty institution in raussendorf_measurement-based_2003
+Warning--empty institution in joo_error-correcting_2009
+Warning--empty institution in briegel_measurement-based_2009
+Warning--empty institution in briegel_persistent_2000
+Warning--empty institution in joo_generating_2012
+Warning--empty institution in kiesel_experimental_2005
+Warning--empty institution in jozsa_introduction_2005
+Warning--empty institution in raussendorf_quantum_2000
+Warning--empty author in _ieee_2008
+Warning--empty publisher in hagar_quantum_2011
+You've used 16 entries,
+            1876 wiz_defined-function locations,
+            581 strings with 6382 characters,
+and the built_in function-call counts, 3339 in all, are:
+= -- 298
+> -- 180
+< -- 8
++ -- 67
+- -- 51
+* -- 295
+:= -- 536
+add.period$ -- 21
+call.type$ -- 16
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 149
+empty$ -- 282
+format.name$ -- 51
+if$ -- 744
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 7
+newline$ -- 57
+num.names$ -- 16
+pop$ -- 43
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 80
+stack$ -- 0
+substring$ -- 123
+swap$ -- 44
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 10
+while$ -- 27
+width$ -- 18
+write$ -- 148
+(There were 10 warnings)
